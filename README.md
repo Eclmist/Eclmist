@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Hi! I'm a graphics engineer at Kojima Productions. Previously, I was also in the graphics team at SIE Japan and Ubisoft Singapore.
+Hi! I'm a graphics engineer at Kojima Productions. Previously, I was in the graphics team at SIE Japan and Ubisoft Singapore.
 
 My portfolio and project writeups can be found at [blinkinglights.io](https://blinkinglights.io/).
 
