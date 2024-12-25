@@ -1,3 +1,3 @@
-<img src="https://raw.githubusercontent.com/Eclmist/Eclmist/master/banner2.png">
+<img src="https://github.com/Eclmist/Eclmist/blob/master/banner2.png?raw=true">
 
 ### Hi there 👋
